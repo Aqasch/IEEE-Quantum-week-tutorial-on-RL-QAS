@@ -1,6 +1,6 @@
 # Hands-on RL-QAS ✍️
 
-> Kundu, A., and S. Feld. “Replay-buffer engineering for noise-robust quantum circuit optimization.” *arXiv preprint* arXiv:2604.21863 (2026).
+> [Kundu, Akash, Aritra Sarkar, Prayag Tiwari, and Sebastian Feld. "Reinforcement Learning for Quantum Circuit Optimization: A Review." Openreview (2026).](https://openreview.net/forum?id=h6w1j1fjeZ)
 
 ![RLVTSP](pics/rl-qco-1.png)
 
