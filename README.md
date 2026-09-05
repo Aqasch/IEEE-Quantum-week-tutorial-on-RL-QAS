@@ -8,7 +8,7 @@
     <img src="pics/quantum_week_logo.jpg"
          alt="RL-QAS Logo"
          style="height: 100px;">
-    A Tutorial on Reinforcement Learning for Quantum Architecture Search
+    Reinforcement Learning for Quantum Architecture Search
     <img src="pics/paper_symbol.png"
          alt="IEEE Quantum Week Logo"
          style="height: 100px;">
