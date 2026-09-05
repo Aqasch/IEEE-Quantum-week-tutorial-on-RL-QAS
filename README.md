@@ -5,6 +5,8 @@
 
 > **Star (⭐️) my open-source QAS Repo:** [Awesome-QAS](https://github.com/Aqasch/awesome-QAS)
 
+> **The Schedule @ Official Website:** [Website](https://aqasch.github.io/rlqas.github.io/)
+
 ![RLVTSP](pics/rl-qco-1.png)
 
 ## IEEE Quantum Week Tutorial on RL-QAS
