@@ -48,12 +48,12 @@ jupyter notebook
 
 ## File description
 
-**Noiseless** maximally quantum state preparation:
+**Noiseless** maximally entangled quantum state preparation:
 ```
 RL-QAS_nonparameterized.ipynb
 ```
 
-**Noisy** maximally quantum state preparation:
+**Noisy** maximally entangled quantum state preparation:
 ```
 RL-QAS_nonparameterized_noise.ipynb
 ```
