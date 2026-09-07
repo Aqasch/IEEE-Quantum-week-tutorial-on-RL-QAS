@@ -118,9 +118,9 @@ RL-QAS_nonparameterized.ipynb
 RL-QAS_nonparameterized_noise.ipynb
 ```
 
-Lightweight transfer learning by buffer transfer method:
+**Lightweight transfer learning by buffer transfer** method:
 
-> **Based on:** [<u>Akash Kundu</u>, and <u>Sebastian Feld</u>. "Replay-buffer engineering for noise-robust quantum circuit optimization." arXiv preprint arXiv:2604.21863 (2026).](https://arxiv.org/abs/2604.21863)
+> **Paper (preprint):** [<u>Akash Kundu</u>, and <u>Sebastian Feld</u>. "Replay-buffer engineering for noise-robust quantum circuit optimization." arXiv preprint arXiv:2604.21863 (2026).](https://arxiv.org/abs/2604.21863)
 
 ```
 RL-QAS_lightweight_buffer_transfer.ipynb
