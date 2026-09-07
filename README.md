@@ -15,8 +15,6 @@
 <!-- <p style="text-align: center; font-size: 3rem;">↓</p> -->
 <p align="center", font-size: 10rem>⬇</p>
 <p align="center", font-size: 10rem>⬇</p>
-<p align="center", font-size: 10rem>⬇</p>
-<p align="center", font-size: 10rem>⬇</p>
 <!-- <p style="text-align: center; font-size: 2rem;">↓</p> -->
 
 #### (b) One Episode
@@ -24,7 +22,8 @@
   <img src="pics/random_2qubit_circuit_group.gif" alt="RLVTSP" width="400">
 </p>
 <!-- <p style="text-align: center; font-size: 2rem;">↓</p> -->
-<p align="center">⬇</p>
+<p align="center", font-size: 10rem>⬇</p>
+<p align="center", font-size: 10rem>⬇</p>
 
 #### (c) Replay buffer
 <p align="center">
@@ -35,7 +34,9 @@
      style="object-fit: cover; object-position: 10% 100%;">
 </p>
 <!-- <p style="text-align: center; font-size: 2rem;">↓</p> -->
-<p style="text-align: center; font-size: 3rem;">↓</p>
+<p align="center", font-size: 10rem>⬇</p>
+<p align="center", font-size: 10rem>⬇</p>
+
 
 #### (d) Sampling from buffer
 <p align="center">
@@ -47,8 +48,9 @@
 <img src="pics/random_quantum_gate_sampling.gif" alt="RLVTSP"
      width="200">
 </p>
-<p style="text-align: center; font-size: 2rem;">↓</p>
-<p style="text-align: center; font-size: 3rem;">↓</p>
+<p align="center", font-size: 10rem>⬇</p>
+<p align="center", font-size: 10rem>⬇</p>
+
 <p align="center">
 
 | **Goes back to step (a) Environment** |
