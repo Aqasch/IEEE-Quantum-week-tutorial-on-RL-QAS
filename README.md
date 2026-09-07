@@ -66,16 +66,15 @@
 </p>
 
 
-## IEEE Quantum Week Tutorial on RL-QAS
 <img align="left"
      src="pics/quantum_week_logo.jpg"
      alt="IEEE Quantum Week logo"
-     height="80">
+     height="100">
 
 <img align="right"
      src="pics/paper_symbol.png"
      alt="Paper symbol"
-     height="80">
+     height="100">
 
 <br clear="both">
 <p>
