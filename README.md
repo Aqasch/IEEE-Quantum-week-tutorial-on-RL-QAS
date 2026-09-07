@@ -53,8 +53,8 @@
 
 <p align="center">
   <strong>Goes back to step (a) Environment</strong><br><br>
-  <img src="pics/buffer_dist.gif"
-       alt="Replay-buffer distribution"
+  <img src="pics/random_2qubit_circuit_group.gif"
+       alt="Gate-distribution"
        width="200">
 </p>
 
