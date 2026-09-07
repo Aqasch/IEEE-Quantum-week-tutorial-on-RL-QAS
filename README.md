@@ -13,8 +13,11 @@
 #### (a) Environment
 ![RLVTSP](pics/random_2qubit_circuit_single.gif)
 <!-- <p style="text-align: center; font-size: 3rem;">↓</p> -->
-<p align="center", font-size: 10rem>↓</p>
-<p style="text-align: center; font-size: 2rem;">↓</p>
+<p align="center", font-size: 10rem>⬇</p>
+<p align="center", font-size: 10rem>⬇</p>
+<p align="center", font-size: 10rem>⬇</p>
+<p align="center", font-size: 10rem>⬇</p>
+<!-- <p style="text-align: center; font-size: 2rem;">↓</p> -->
 
 #### (b) One Episode
 <p align="center">
