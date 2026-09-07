@@ -7,7 +7,52 @@
 
 > **The Schedule @ Official Website:** [Website](https://aqasch.github.io/rlqas.github.io/)
 
-![RLVTSP](pics/rl-qco-1.png)
+<!-- ![RLVTSP](pics/rl-qco-1.png) -->
+
+## RL-QAS Workflow
+#### (a) Environment
+![RLVTSP](pics/random_2qubit_circuit_single.gif)
+<p style="text-align: center; font-size: 3rem;">↓</p>
+<p style="text-align: center; font-size: 2rem;">↓</p>
+
+#### (b) One Episode
+<p align="center">
+  <img src="pics/random_2qubit_circuit_group.gif" alt="RLVTSP" width="400">
+</p>
+<!-- <p style="text-align: center; font-size: 2rem;">↓</p> -->
+<p style="text-align: center; font-size: 3rem;">↓</p>
+
+#### (c) Replay buffer
+<p align="center">
+  <img src="pics/buffer.png" alt="RLVTSP" width="300">
+  <!-- tune the focal point: horizontal vertical -->
+<img src="pics/buffer_dist.gif" alt="RLVTSP"
+     width="400" height="190"
+     style="object-fit: cover; object-position: 10% 100%;">
+</p>
+<!-- <p style="text-align: center; font-size: 2rem;">↓</p> -->
+<p style="text-align: center; font-size: 3rem;">↓</p>
+
+#### (d) Sampling from buffer
+<p align="center">
+  <img src="pics/neural_net.png" alt="RLVTSP" width="300">
+</p>
+<p style="text-align: center; font-size: 2rem;">↓</p>
+<p style="text-align: center; font-size: 3rem;">↓</p>
+<p align="center">
+<img src="pics/random_quantum_gate_sampling.gif" alt="RLVTSP"
+     width="200">
+</p>
+<p style="text-align: center; font-size: 2rem;">↓</p>
+<p style="text-align: center; font-size: 3rem;">↓</p>
+<p align="center">
+
+| **Goes back to step (a) Environment** |
+|:---:|
+| <img src="pics/buffer_dist.gif" alt="Replay-buffer distribution" width="200"> |
+
+</p>
+
 
 ## IEEE Quantum Week Tutorial on RL-QAS
   <!-- Left logo -->
@@ -20,7 +65,6 @@
          alt="IEEE Quantum Week Logo"
          style="height: 80px;">
   </div>
-
 
 ## The dependencies
 ```
