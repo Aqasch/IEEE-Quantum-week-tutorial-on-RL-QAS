@@ -59,7 +59,7 @@
 <p align="center", font-size: 10rem>⬇</p>
 
 <p align="center">
-  <strong>Goes back to step (a) Environment</strong><br><br>
+  <strong>Action Applied Environment: Update Step (a)</strong><br><br>
   <img src="pics/random_2qubit_circuit_group.gif"
        alt="Gate-distribution"
        width="300">
