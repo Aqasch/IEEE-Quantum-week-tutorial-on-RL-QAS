@@ -29,12 +29,12 @@
 <p align="center", font-size: 10rem>⬇</p>
 <p align="center", font-size: 10rem>⬇</p>
 
-<h4 align="center">(c) Replay Buffer</h4>
+<h4 align="center">(c) Replay Buffer (with density distribution over episodes)</h4>
 
 <p align="center">
   <img src="pics/buffer.png" alt="RLVTSP" width="300">
   <!-- tune the focal point: horizontal vertical -->
-<img src="pics/buffer_dist.gif" alt="RLVTSP" width="200"">
+<img src="pics/buffer_dist.gif" alt="RLVTSP" width="300"">
 </p>
 <!-- <p style="text-align: center; font-size: 2rem;">↓</p> -->
 <p align="center", font-size: 10rem>⬇</p>
