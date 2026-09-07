@@ -1,5 +1,5 @@
 # Hands-on RL-QAS ✍️
-![Awesome](https://awesome.re/badge.svg) [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 > **Review Paper:** [<u>Akash Kundu</u>, Aritra Sarkar, Prayag Tiwari, and <u>Sebastian Feld</u>. "Reinforcement Learning for Quantum Circuit Optimization: A Review." Openreview (2026).](https://openreview.net/forum?id=h6w1j1fjeZ)
 
