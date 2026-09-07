@@ -20,7 +20,7 @@
   <img src="pics/random_2qubit_circuit_group.gif" alt="RLVTSP" width="400">
 </p>
 <!-- <p style="text-align: center; font-size: 2rem;">↓</p> -->
-<p style="text-align: center; font-size: 3rem;">↓</p>
+<p align="center">↓</p>
 
 #### (c) Replay buffer
 <p align="center">
