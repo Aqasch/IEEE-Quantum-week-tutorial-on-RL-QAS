@@ -52,9 +52,10 @@
 <p align="center", font-size: 10rem>⬇</p>
 
 <p align="center">
-| **Goes back to step (a) Environment** |
-|:---:|
-| <img src="pics/buffer_dist.gif" alt="Replay-buffer distribution" width="200"> |
+  <strong>Goes back to step (a) Environment</strong><br><br>
+  <img src="pics/buffer_dist.gif"
+       alt="Replay-buffer distribution"
+       width="200">
 </p>
 
 
