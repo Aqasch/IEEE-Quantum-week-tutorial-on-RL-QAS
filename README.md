@@ -34,9 +34,7 @@
 <p align="center">
   <img src="pics/buffer.png" alt="RLVTSP" width="300">
   <!-- tune the focal point: horizontal vertical -->
-<img src="pics/buffer_dist.gif" alt="RLVTSP"
-     width="400" height="190"
-     style="object-fit: cover; object-position: 10% 100%;">
+<img src="pics/buffer_dist.gif" alt="RLVTSP" width="200"">
 </p>
 <!-- <p style="text-align: center; font-size: 2rem;">↓</p> -->
 <p align="center", font-size: 10rem>⬇</p>
