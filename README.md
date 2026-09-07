@@ -7,7 +7,7 @@
 
 > **The Schedule @ Official Website:** [Website](https://aqasch.github.io/rlqas.github.io/)
 
-<!-- ![RLVTSP](pics/rl-qco-1.png) -->
+<-- ![RLVTSP](pics/rl-qco-1.png) -->
 
 ## RL-QAS Workflow
 <h4 align="center">(a) Environment</h4>
