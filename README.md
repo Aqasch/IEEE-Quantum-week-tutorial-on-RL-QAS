@@ -18,7 +18,8 @@
 <p align="center", font-size: 10rem>⬇</p>
 <!-- <p style="text-align: center; font-size: 2rem;">↓</p> -->
 
-#### (b) One Episode
+<h4 align="center">(b) One Episode</h4>
+
 <p align="center">
   <img src="pics/random_2qubit_circuit_group.gif" alt="RLVTSP" width="400">
 </p>
@@ -26,7 +27,8 @@
 <p align="center", font-size: 10rem>⬇</p>
 <p align="center", font-size: 10rem>⬇</p>
 
-#### (c) Replay buffer
+<h4 align="center">(c) Replay Buffer</h4>
+
 <p align="center">
   <img src="pics/buffer.png" alt="RLVTSP" width="300">
   <!-- tune the focal point: horizontal vertical -->
@@ -39,12 +41,16 @@
 <p align="center", font-size: 10rem>⬇</p>
 
 
-#### (d) Sampling from buffer
+<h4 align="center">(d) Sampling From Buffer</h4>
+
 <p align="center">
   <img src="pics/neural_net.png" alt="RLVTSP" width="300">
 </p>
 <p align="center", font-size: 10rem>⬇</p>
 <p align="center", font-size: 10rem>⬇</p>
+
+<h4 align="center">(d) Agent Proposes Action</h4>
+
 <p align="center">
 <img src="pics/random_quantum_gate_sampling.gif" alt="RLVTSP"
      width="200">
