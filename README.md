@@ -13,6 +13,7 @@
 #### (a) Environment
 ![RLVTSP](pics/random_2qubit_circuit_single.gif)
 <p style="text-align: center; font-size: 3rem;">↓</p>
+<p align="center", font-size: 3rem>↓</p>
 <p style="text-align: center; font-size: 2rem;">↓</p>
 
 #### (b) One Episode
@@ -20,7 +21,7 @@
   <img src="pics/random_2qubit_circuit_group.gif" alt="RLVTSP" width="400">
 </p>
 <!-- <p style="text-align: center; font-size: 2rem;">↓</p> -->
-<p align="center">↓</p>
+<p align="center">⬇</p>
 
 #### (c) Replay buffer
 <p align="center">
