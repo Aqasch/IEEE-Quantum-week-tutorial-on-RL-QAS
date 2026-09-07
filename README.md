@@ -11,6 +11,7 @@
 
 ## RL-QAS Workflow
 <h4 align="center">(a) Environment</h4>
+
 ![RLVTSP](pics/random_2qubit_circuit_single.gif)
 <!-- <p style="text-align: center; font-size: 3rem;">↓</p> -->
 <p align="center", font-size: 10rem>⬇</p>
