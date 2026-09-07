@@ -42,8 +42,8 @@
 <p align="center">
   <img src="pics/neural_net.png" alt="RLVTSP" width="300">
 </p>
-<p style="text-align: center; font-size: 2rem;">↓</p>
-<p style="text-align: center; font-size: 3rem;">↓</p>
+<p align="center", font-size: 10rem>⬇</p>
+<p align="center", font-size: 10rem>⬇</p>
 <p align="center">
 <img src="pics/random_quantum_gate_sampling.gif" alt="RLVTSP"
      width="200">
